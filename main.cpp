@@ -71,7 +71,7 @@ int main() {
     // Hasil
     
     cout << endl << "perkenalan \n \n";
-    cout << "Perkenalkan nama saya " << nama << " ,saya dari " << alamat << " dan saya berumur "<< umur << " ,saya berjenis kelamin " << jenis_kelamin << " dan saya sekarang berada di kelas " << kelas << " ,hobi saya yaitu " << hobi;
+    cout << "Perkenalkan nama saya " << nama << " ,saya dari " << alamat << " dan saya berumur "<< umur << " tahun,saya berjenis kelamin " << jenis_kelamin << " dan saya sekarang berada di kelas " << kelas << " ,hobi saya yaitu " << hobi;
 
     return 0;
 }
